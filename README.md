@@ -1,6 +1,6 @@
 # erwaa
 
-A new Flutter project.
+## Just download the project and type flutter pub get in the terminal then type flutter run
 
 ## Getting Started
 
