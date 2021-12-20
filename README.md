@@ -2,6 +2,8 @@
 
 ## Just download the project and type flutter pub get in the terminal then type flutter run
 
+Functionalities aren't working because they required google cloud billing address account where you have to enter your credit card.
+
 ![Capture2](https://user-images.githubusercontent.com/49989018/146801498-a794c80f-4115-413a-b9c1-b4ea09b9fc1d.PNG)
 ![Capture1](https://user-images.githubusercontent.com/49989018/146801504-c383b732-b376-45b8-96f4-93c99ae931ee.PNG)
 
